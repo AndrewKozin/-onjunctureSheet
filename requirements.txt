@@ -1,0 +1,9 @@
+pathon==3.9.19
+pdf2image==1.17.0
+pillow==10.3.0
+pyperclip==1.8.2
+pytesseract==0.3.10
+fitz
+tools
+opencv-python
+pymupdf==1.21.1
